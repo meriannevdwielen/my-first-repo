@@ -8,7 +8,7 @@ biajlijsb
 
 # my picture
 
-!(main/pasfoto.jpg)
+[mijn eigen pasfoto]!(main/pasfoto.jpg)
 
 # the link
 
