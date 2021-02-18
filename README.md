@@ -13,6 +13,6 @@ biajlijsb
 # the link
 
 
-(https://www.zuyd.nl/) 
+[ZUYD](https://www.zuyd.nl/) 
 
 
