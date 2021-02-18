@@ -6,4 +6,13 @@ dsblkaja
 balkjslijb
 biajlijsb
 
-{link tekst} (https://www.zuyd.nl/) 
+# my picture
+
+
+
+
+
+
+(https://www.zuyd.nl/) 
+
+
