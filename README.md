@@ -8,7 +8,7 @@ biajlijsb
 
 # my picture
 
-![pasfoto](img/pasfoto.png)
+![pasfoto](https://github.com/meriannevdwielen/my-first-repo/blob/main/IMG/pasfoto.png)
 
 # the link
 
